@@ -30,11 +30,11 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: "{{ site.baseurl }}/"
+    url: "{{site.baseurl}}/"
   - text: About
-    url: "{{ site.baseurl }}/about/"
+    url: "{{site.baseurl}}/about/"
   - text: Tags
-    url: "{{ site.baseurl }}/tags/"
+    url: "{{site.baseurl}}/tags/"
 
 
 # The shortname for your Disqus site to enable comments.
