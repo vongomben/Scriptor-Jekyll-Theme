@@ -18,7 +18,8 @@ description: "personal media compass"
 baseurl: "/Scriptor-Jekyll-Theme"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://vongomben.github.io"
+
 
 # Favicon
 favicon: images/favicon.png
