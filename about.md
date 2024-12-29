@@ -2,6 +2,7 @@
 layout: page
 title: About
 description: the about page
+permalink: /about/
 feature_image: images/about.jpg
 ---
 
